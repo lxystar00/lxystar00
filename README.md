@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Xinyi Li :girl:, and I am currently an undergraduate student at Wuhan University. Below, you can find the repositories of some of the projects I have open-sourced:coffee:. 
+My name is Xinyi Li :girl:, and I am currently an undergraduate student at Wuhan University. Below, you can find some public repositories:coffee:. 
 
-
-I would love to engage in discussions and exchange ideas with others, I also hope to work in the field of technology in the future :beers:. 
+I love to engage in discussions and exchange ideas with others, I also hope to work in the field of technology in the future :beers:. 
 
 
 ### Things I am passionate about :heart:
