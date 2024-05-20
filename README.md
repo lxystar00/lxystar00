@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Xinyi Li :girl:, and I am currently an undergraduate student at Wuhan University. Below, you can find some public repositories:coffee:. 
+My name is Xinyi Li :girl:, I am currently an undergraduate student at Wuhan University (WHU) and looking forward to enrolling in the MSE Robotics program at Johns Hopkins
+University (JHU).Below, you can find some public repositories:coffee:. 
 
 I love to engage in discussions and exchange ideas with others, I also hope to work in the field of technology in the future :beers:. 
 
