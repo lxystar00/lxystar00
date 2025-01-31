@@ -8,10 +8,8 @@ I love to engage in discussions and exchange ideas with others, I also hope to w
 
 ### Things I am passionate about :heart:
 
-- robot control algorithms :robot:
+- robot learning :robot:
 - software development :computer:
-- artificial intelligence :ghost:
-- IC design :calling:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxystar00&layout=compact&theme=tokyonight)
 
